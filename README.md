@@ -1,0 +1,2 @@
+# Download-Image-Urls-In-CSV
+A simple command line tool to download any images from urls in csv files located in the same directory as this application. Simple put this file in a new directory and copy paste any CSV files into that same directory. The application will look for and validate any urls and then proceed to download all of the files into a new images folder. This is a tool I used to download images from clients Textalk installations where there is no direct file access.
